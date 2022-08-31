@@ -1,7 +1,7 @@
 # Hi there, I'm Shahadil Munawir 👋
 ## 💫About Me
 - 🔭 I’m currently working on a Telegram bot
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Kubernetes
 - 🤔 I’m looking for help with discord.py documentation
 - 💬 Ask me about tech related stuff
 - 📫 How to reach me: shahadilmunawir110@gmail.com
@@ -13,5 +13,5 @@
 
 ## 📈 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShahadilMunawir&show_icons=true&theme=highcontrast"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShahadilMunawir&show_icons=true&theme=chartreuse-dark"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadilMunawir&theme=highcontrast"/>
