@@ -11,11 +11,13 @@
 
 ## 🛠️ Languages and Tools
 <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60px" height="60px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60px" height="60px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="60px" height="60px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60px" height="60px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60px" height="60px">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60px" height="60px"></a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60px" height="60px"></a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="60px" height="60px"></a>
+    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="60px" height="60px"></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60px" height="60px"></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60px" height="60px"></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60px" height="60px"></a>
 </p>
 
 ## 📈 Stats
