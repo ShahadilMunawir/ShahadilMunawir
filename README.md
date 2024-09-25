@@ -1,13 +1,12 @@
 # Hi there, I'm Shahadil Munawir 👋
 
 ## 💫 About Me
-- 🔭 I’m currently working on College Attendance System
+- 🔭 I’m currently working on a college management system
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with discord.py documentation
 - 💬 Ask me about tech related stuff
 - 📫 How to reach me: shahadilmunawir110@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend most of my time in front of computers
 
 ## 🛠️ Languages and Tools
 <p>
@@ -17,6 +16,7 @@
     <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="60px" height="60px"></a>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="60px" height="60px"></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60px" height="60px"></a>
+    <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="60px" height="60px"></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60px" height="60px"></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60px" height="60px"></a>
 </p>
